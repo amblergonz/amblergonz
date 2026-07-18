@@ -18,7 +18,6 @@ Kakao Tech Campus 4기 agentic AI 과정 진행 중
 
 ## 주요 프로젝트
 
-| 프로젝트 | 설명 | 기술 스택 | 비고 |
 | OK독해 | 지문을 읽으면 질문을 생성해 독해력을 키워주는 질문 유도형 독해 AI. FastAPI 기반 세션/평가 로직 설계, GCP Vertex AI 파인튜닝 | FastAPI, Firestore, GCP Vertex AI | 창업동아리 진행 중 |
 | 차트 패턴 예측 프로그램 | 이론 기반 기술적 분석 도구 (비공개). 통계적 백테스트로 검증하며 반복 개선 | Python, Streamlit, pandas | 개인 프로젝트 |
 
